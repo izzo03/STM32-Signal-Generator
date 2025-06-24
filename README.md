@@ -11,6 +11,7 @@ This project implements a **signal generator** based on an STM32 microcontroller
 - 16x2 HD44780-compatible LCD
 - 4x4 Keypad
 - DMA (for efficient waveform data transfer to DAC)
+![setup](images/setup.png)
 
 ## ⚙️ Features
 
