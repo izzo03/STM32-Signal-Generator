@@ -1,5 +1,5 @@
-# STM32-Signal-Generator
-This project implements a **signal generator** based on an STM32 microcontroller (H7 series). It allows users to select both waveform type and output frequency using a rotary encoder, keypad, and UART interface.
+# STM32-Function-Generator
+This project implements a **function generator** based on an STM32 microcontroller (H7 series). It allows users to select both waveform type and output frequency using a rotary encoder, keypad, and UART interface.
 
 ## 🔧 Hardware Used
 
