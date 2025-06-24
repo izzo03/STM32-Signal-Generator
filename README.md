@@ -35,12 +35,16 @@ This project implements a **signal generator** based on an STM32 microcontroller
 
 - Baudrate: `115200`
 - Periodic prompt shows current frequency and waveform options
-- Press `'1'`, `'2'`, `'3'`, or `'4'` to switch waveform types
+![console](images/console.png)
 
 ## 📈 Available Waveforms
 
 Each waveform contains 128 points and is looped continuously using DMA:
 - **Sine Wave** – Smooth periodic waveform
+![sine](images/sine.png)
 - **Triangle Wave** – Linear rise and fall
+![triangle](images/triangle.png)
 - **Square Wave** – 50% duty cycle on/off signal
+![square](images/square.png)
 - **Sawtooth Wave** – Sharp rise followed by a drop
+![sawtooth](images/sawtooth.png)
