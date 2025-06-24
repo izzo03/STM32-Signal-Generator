@@ -41,10 +41,14 @@ This project implements a **signal generator** based on an STM32 microcontroller
 
 Each waveform contains 128 points and is looped continuously using DMA:
 - **Sine Wave** – Smooth periodic waveform
+
 ![sine](images/sine.png)
 - **Triangle Wave** – Linear rise and fall
+
 ![triangle](images/triangle.png)
 - **Square Wave** – 50% duty cycle on/off signal
+
 ![square](images/square.png)
 - **Sawtooth Wave** – Sharp rise followed by a drop
+
 ![sawtooth](images/sawtooth.png)
