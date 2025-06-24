@@ -30,6 +30,7 @@ This project implements a **signal generator** based on an STM32 microcontroller
 
 - **Line 1**: Selected waveform type
 - **Line 2**: Current output frequency (e.g. `Frequency: 1911`)
+
 ![console](images/lcd.png)
 
 ## 📡 UART Serial Interface
